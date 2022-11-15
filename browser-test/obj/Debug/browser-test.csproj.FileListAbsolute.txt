@@ -1,0 +1,9 @@
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\bin\Debug\browser-test.exe.config
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\bin\Debug\browser-test.exe
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\bin\Debug\browser-test.pdb
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\obj\Debug\browser-test.csproj.AssemblyReference.cache
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\obj\Debug\browser_test.Properties.Resources.resources
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\obj\Debug\browser-test.csproj.GenerateResource.cache
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\obj\Debug\browser-test.csproj.CoreCompileInputs.cache
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\obj\Debug\browser-test.exe
+C:\Users\河口怜和人\source\repos\browser-test\browser-test\obj\Debug\browser-test.pdb
