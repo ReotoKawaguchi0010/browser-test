@@ -12,8 +12,7 @@ namespace CSVTests
             reader.Open(@"C:\Users\河口怜和人\source\repos\browser-test\csv-tests\testdata\test.csv");
 
             var csv = reader.Get(0);
-            System.Console.WriteLine(csv.ItemOptions[0]);
-
+            Assert.AreEqual(csv.ItemOptions[0].option_name, "カラーを選択");
         }
     }
 }

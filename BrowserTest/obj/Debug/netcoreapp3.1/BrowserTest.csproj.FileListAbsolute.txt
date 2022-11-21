@@ -1,0 +1,15 @@
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\bin\Debug\netcoreapp3.1\BrowserTest.deps.json
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\bin\Debug\netcoreapp3.1\BrowserTest.dll
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\bin\Debug\netcoreapp3.1\BrowserTest.pdb
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.csproj.AssemblyReference.cache
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest_MarkupCompile.cache
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest_MarkupCompile.lref
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\UserControl1.baml
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.g.resources
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.AssemblyInfoInputs.cache
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.AssemblyInfo.cs
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.csproj.CoreCompileInputs.cache
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.dll
+C:\Users\河口怜和人\source\repos\browser-test\BrowserTest\obj\Debug\netcoreapp3.1\BrowserTest.pdb

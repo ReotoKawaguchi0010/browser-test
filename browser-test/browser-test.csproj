@@ -76,5 +76,22 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\csv\CSV.csproj">
+      <Project>{2a39d41a-99e0-4889-a6ae-bb85a69b7979}</Project>
+      <Name>CSV</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Log\Log.csproj">
+      <Project>{e3171652-853c-4f7c-a988-b12521771435}</Project>
+      <Name>Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\selenium-executer\SeleniumExecuter.csproj">
+      <Project>{62d3d5cb-b692-456b-9092-961dde313da3}</Project>
+      <Name>SeleniumExecuter</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

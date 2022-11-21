@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "browser-test", "browser-test\browser-test.csproj", "{55C926B0-76F1-473D-B3D1-D9EF5A2B763E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV", "csv\CSV.csproj", "{2A39D41A-99E0-4889-A6AE-BB85A69B7979}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVTests", "csv-tests\CSVTests.csproj", "{040221CB-59E6-4967-A6C5-A44F9E0DE3D6}"
@@ -16,7 +14,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumExecuter", "seleniu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumExecuterTests", "selenium-executer-tests\SeleniumExecuterTests.csproj", "{4013B4F3-1453-4079-8735-EC59B69326FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log", "Log\Log.csproj", "{E3171652-853C-4F7C-A988-B12521771435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log", "Log\Log.csproj", "{E3171652-853C-4F7C-A988-B12521771435}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogTests", "LogTests\LogTests.csproj", "{CA45B08D-90C3-4518-A487-F135215DDB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTests", "BrowserTests\BrowserTests.csproj", "{6EC5F474-1351-400F-A435-A3A8E827E018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,10 +26,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{55C926B0-76F1-473D-B3D1-D9EF5A2B763E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55C926B0-76F1-473D-B3D1-D9EF5A2B763E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55C926B0-76F1-473D-B3D1-D9EF5A2B763E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55C926B0-76F1-473D-B3D1-D9EF5A2B763E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2A39D41A-99E0-4889-A6AE-BB85A69B7979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2A39D41A-99E0-4889-A6AE-BB85A69B7979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A39D41A-99E0-4889-A6AE-BB85A69B7979}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -48,6 +46,14 @@ Global
 		{E3171652-853C-4F7C-A988-B12521771435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3171652-853C-4F7C-A988-B12521771435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3171652-853C-4F7C-A988-B12521771435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA45B08D-90C3-4518-A487-F135215DDB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45B08D-90C3-4518-A487-F135215DDB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45B08D-90C3-4518-A487-F135215DDB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45B08D-90C3-4518-A487-F135215DDB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC5F474-1351-400F-A435-A3A8E827E018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC5F474-1351-400F-A435-A3A8E827E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC5F474-1351-400F-A435-A3A8E827E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC5F474-1351-400F-A435-A3A8E827E018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
